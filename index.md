@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Projects Page
-description: A collection of projects that I've created'.
+description: A collection of research projects that I've created'.
 ---
 
 
@@ -13,13 +13,29 @@ Create parametric 3D models of fusion reactors and export to CAD file formats (S
 *   [Link to documentation](https://paramak.readthedocs.io/en/main/)
 *   [Link to git repository](https://github.com/fusion-energy/paramak)
 
-## Isotope plotter
+## Isotope Plotter
 
-Plot microscopic cross from a searchable database of reactions
+Plot **microscopic** cross section from a searchable database of isotopes and reactions
 
 [Link to website](http://isotope-plotter.xsplot.com/)
 
+## Material Plotter
 
+Plot **macroscopic** cross reactions for combinations of elements, isotopes and a density
+
+[Link to website](http://isotope-plotter.xsplot.com/)
+
+## OpenMC Plot
+
+A plotting app for OpenMC geometry, mesh tallies, weight windows and source terms.
+
+[Link to website](http://openmc-plot.xsplot.com/)
+
+## Fusion Energy Neutronics Workshop
+
+A plotting app for OpenMC geometry, mesh tallies, weight windows and source terms.
+
+[Link to git repository](https://github.com/fusion-energy/neutronics-workshop)
 
 ### Small image
 
